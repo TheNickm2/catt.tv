@@ -82,7 +82,7 @@ body{
     width: 100vw;
     height: 100vh;
     z-index: -1;
-    background: url('/assets/img/bg.jpg') center / cover no-repeat fixed;
+    background: url('/assets/img/bg.jpg?v=1') center / cover no-repeat fixed;
     filter: blur(10px);
     transform: scale(1.1);
 }
